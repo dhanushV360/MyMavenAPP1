@@ -22,7 +22,7 @@ sh'mvn test'
 }
 stage('Run Application'){
 steps{
-sh'java -jar target
+sh'java -jar target'
 }
 }
 post{
