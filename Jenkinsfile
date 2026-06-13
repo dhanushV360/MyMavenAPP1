@@ -1,4 +1,4 @@
-gedit Jenkinsfile  ( J should be capital)
+gedit Jenkinsfile  
 	
 	pipeline {
     agent any  // Use any available agent
